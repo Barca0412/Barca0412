@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=Barca0412)
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ...
+- ⚡ Fun fact: ...
+
+
 <!--
 **Barca0412/Barca0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
