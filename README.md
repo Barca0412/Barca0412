@@ -2,6 +2,8 @@
 I'm Fred , majoring in Economic Statistics. 
 I'm interested in both empirical asset pricing in academia📋 and quantitative investment📈 in industry.
 
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Barca0412)
 
 
@@ -10,6 +12,9 @@ I'm interested in both empirical asset pricing in academia📋 and quantitative 
 - 🤔 I’m looking for help with Internship internalization, Career planning guidence ...
 - ⚡ Interest: Football, Photography, Cycling, Travel ...
 
+
+
+https://badgen.net/badge/color/Python/blue?label=
 
 <!--
 **Barca0412/Barca0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
