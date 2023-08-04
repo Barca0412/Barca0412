@@ -1,6 +1,7 @@
 ### Hi there 👋 
-I'm Fred , majoring in Economic Statistics. 
-I'm interested in both empirical asset pricing in academia📋 and quantitative investment📈 in industry.
+I'm Fred , majoring in Economic Statistics. I'm interested in both empirical asset pricing in academia📋 and quantitative investment📈 in industry.
+
+However, I'm only a beginer in the field of Quantitative Finance, there's still a long way to go.
 
 
 
