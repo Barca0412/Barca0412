@@ -14,8 +14,6 @@ I'm interested in both empirical asset pricing in academia📋 and quantitative 
 
 
 
-https://badgen.net/badge/color/Python/blue?label=
-
 <!--
 **Barca0412/Barca0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
