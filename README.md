@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I'm Fred , majoring in Economic Statistics. 
-I'm interested in both empirical asset pricing in academia📕 and quantitative investment💴 in industry.
+I'm interested in both empirical asset pricing in academia📋 and quantitative investment📈 in industry.
 
 ![](https://github-readme-stats.vercel.app/api?username=Barca0412)
 
