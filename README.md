@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Fred , majoring in Economic Statistics. I'm interested in both empirical asset pricing in academia📋 and quantitative investment📈 in industry.
+I'm Fred , majoring in Economic Statistics(Gap Year ). I'm interested in both empirical asset pricing in academia📋 and quantitative investment📈 in industry.
 
 However, I'm only a beginer in the field of Quantitative Finance, there's still a long way to go.
 
@@ -14,7 +14,7 @@ However, I'm only a beginer in the field of Quantitative Finance, there's still 
 - ⚡ Interest: Football, Photography, Cycling, Travel ...
 
 
-## 😄 By the way, I'm lead a team to design a Quantitative Strategy to invest in Chinese stock market based on multi-factor model. If you have interest in this project, please contact me !
+## 😄 By the way, I'm leading a team to design a Quantitative Strategy for investing in the Chinese stock market based on multi-factor model(temporarily). If you have interest in this project, please contact me !
 
 
 
