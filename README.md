@@ -14,6 +14,11 @@ However, I'm only a beginer in the field of Quantitative Finance, there's still 
 - ⚡ Interest: Football, Photography, Cycling, Travel ...
 
 
+## 😄 By the way, I'm lead a team to design a Quantitative Strategy to invest in Chinese stock market based on multi-factor model. If you have interest in this project, please contact me !
+
+
+
+
 
 <!--
 **Barca0412/Barca0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
