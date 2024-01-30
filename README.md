@@ -14,8 +14,9 @@ However, I'm only a beginer in the field of Quantitative Finance, there's still 
 - ⚡ Interest: Football, Photography, Cycling, Travel ...
 
 
-## 😄 By the way, I'm leading a team to design a Quantitative Strategy for investing in the Chinese stock market based on multi-factor model(temporarily). If you have interest in this project, please contact me !
+% ## 😄 By the way, I'm leading a team to design a Quantitative Strategy for investing in the Chinese stock market based on multi-factor model(temporarily). If you have interest in this project, please contact me !
 
+😄我正在业界进行 使用算法挖掘选股因子 的项目，欢迎与我讨论 ！
 
 
 
