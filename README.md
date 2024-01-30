@@ -4,9 +4,9 @@ I'm Fred , majoring in Economic Statistics(Gap Year). I'm interested in both emp
 However, I'm only a beginer in the field of Quantitative Finance, there's still a long way to go.
 
 
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=Barca0412)
-
+-->
 
 - 🔭 I’m currently working on Daily-frequency strategy Research, Deep Learning, Reinforcement Learning ...
 - 💬 Ask me about Fund Analysis, FoF Research, Risk Management(Barra, etc.) ...
@@ -21,6 +21,8 @@ However, I'm only a beginer in the field of Quantitative Finance, there's still 
 
 😄我正在业界进行 使用算法挖掘选股因子 的工作，欢迎与我讨论 ！
 
+
+- 📫Email: qgh124430@hnu.edu.cn
 
 
 
