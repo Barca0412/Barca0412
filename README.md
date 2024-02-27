@@ -10,8 +10,8 @@ However, I'm only a beginer in the field of Quantitative Finance, there's still 
 
 - 🔭 I’m currently working on Daily-frequency strategy Research, Deep Learning, Reinforcement Learning ...
 - 💬 Ask me about Fund Analysis, FoF Research, Risk Management(Barra, etc.) ...
-- 🌱 I’m currently learning Machine Learning and Deep Learning, Programming, High-Frequency trading ...
-- 🤔 I’m looking for help with Internship internalization, Career planning guidence ...
+- 🌱 I’m currently learning Machine Learning and Deep Learning, High-Frequency trading ...
+- 🤔 I’m looking for help with Internship internalization, Career planning guidence ... Besides, I'm working on something about prop trading to make a profit. 
 - ⚡ Interest: Football, Photography, Hiking, Cycling, Travel ...
 
 <!-- 
@@ -19,12 +19,11 @@ However, I'm only a beginer in the field of Quantitative Finance, there's still 
 -->
 
 
-😄我正在业界进行 使用算法挖掘选股因子 的工作，欢迎与我讨论 ！
+😄我正在进行 使用算法挖掘选股因子 的工作，欢迎与我讨论 ！
 
+📫Email: qgh124430@hnu.edu.cn
 
-- 📫Email: qgh124430@hnu.edu.cn
-
-
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24355%26project%3D%26in=0)](https://codetime.dev)
 
 <!--
 **Barca0412/Barca0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
