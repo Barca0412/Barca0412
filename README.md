@@ -20,7 +20,8 @@ However, I'm only a beginer in the field of Quantitative Finance, there's still 
 
 
 😄我正在进行 使用算法挖掘选股因子 的工作，欢迎与我讨论 ！
-😄此外，我打算对公开的量化研究学习资料进行整理与细化，写一份详细的roadmap-[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)，欢迎感兴趣的朋友一同build~
+
+😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎感兴趣的朋友一同build ~
 
 📫Email: qgh124430@hnu.edu.cn
 
