@@ -24,6 +24,7 @@ However, I'm only a beginer in the field of Quantitative Finance, there's still 
 😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎感兴趣的朋友一同build ~
 
 📫Email: qgh124430@hnu.edu.cn
+📞Wechat: qgh985695077
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24355%26project%3D%26in=0)](https://codetime.dev)
 
