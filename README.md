@@ -42,9 +42,9 @@ However, I'm only a beginer in the field of Quantitative Finance, there's still 
  ## 😄 By the way, I'm leading a team to design a Quantitative Strategy for investing in the Chinese stock market based on multi-factor model(temporarily). If you have interest in this project, please contact me ! 
 -->
 
-
+<!--
 😄我正在进行 使用算法挖掘选股因子 的工作，欢迎与我讨论 ！
-
+-->
 😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎感兴趣的朋友一同build ~
 
 <!--
