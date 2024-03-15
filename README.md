@@ -9,7 +9,7 @@
 
 I'm Guohao Qi, an undergraduate majoring in Economic Statistics (graduating in 2025, 25fall-US). I'm interested in both empirical asset pricing in academia📋 and quantitative investment📈 in industry.
 
-However, I'm only a beginer in the field of Quantitative Finance, there's still a long way to go.
+However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
 
 
 <div align="center">
