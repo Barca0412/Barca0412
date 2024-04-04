@@ -47,7 +47,7 @@ However, I'm only a beginner in the field of Quantitative Finance, there's still
 -->
 😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎感兴趣的朋友一同build ~
 
-湖南大学的cover letter模板在下方pinned区域, 请自取！（后续会写一份论文的Template，敬请期待）
+湖南大学的[cover letter模板](https://github.com/Barca0412/Cover-letter-of-Hunan-University)在下方pinned区域, 请自取！（后续会写一份论文的Template，敬请期待）
 <!--
 <span > 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
