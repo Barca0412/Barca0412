@@ -56,9 +56,11 @@ However, I'm only a beginner in the field of Quantitative Finance, there's still
 </span>
 -->
 
-📫Email: qgh124430@hnu.edu.cn
+🌏 Personal page: www.guohaoqi.cn
 
-📞Wechat: qgh985695077
+📫 Email: qgh124430@hnu.edu.cn
+
+📞 Wechat: qgh985695077
 
 <a href='https://clustrmaps.com/site/1bza4'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=450&t=n&d=cVC4cPmbBANO1z7BYtwwS9JV9ShIe_AyLkLOnRp0IGM'/></a>
 
