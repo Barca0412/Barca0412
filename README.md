@@ -46,11 +46,14 @@ However, I'm only a beginner in the field of Quantitative Finance, there's still
 😄我正在进行 使用算法挖掘选股因子 的工作，欢迎与我讨论 ！
 -->
 😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎感兴趣的朋友一同build ~
-
+<!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e94cd3b-d25e-4888-b404-e42c54af56a8" alt="star-history-2024731" width="50%">
 </p>
-
+-->
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=Barca0412/Introduction-to-Quantitative-Finance&type=Date" alt="Star History Chart" width="50%">
+</p>
 
 😊湖南大学的[cover letter模板](https://github.com/Barca0412/Cover-letter-of-Hunan-University)在下方pinned区域, 请自取！（后续会写一份论文的Template，敬请期待）
 <!--
