@@ -7,7 +7,7 @@
 ![decription](https://img.shields.io/badge/Language-SAS-white)
 
 
-I'm Guohao Qi (Page: www.guohaoqi.cn), an undergraduate majoring in Economic Statistics at College of Finance and Statistics, Hunan University (graduating in 2025, 25fall-US). I'm interested in both empirical asset pricing in academia📋 and quantitative investment📈 in industry.
+I'm Guohao Qi (www.guohaoqi.cn), an undergraduate majoring in Economic Statistics at College of Finance and Statistics, Hunan University (graduating in 2025, 25fall-US). I'm interested in both empirical asset pricing in academia📋 and quantitative investment📈 in industry.
 
 However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
 
