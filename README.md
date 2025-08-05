@@ -9,7 +9,9 @@
 
 I am Guohao Qi (齐国皓, www.guohaoqi.cn), a Master studnet in the School of Computing at the National University of Singapore (NUS) from 2025 to 2027. I hold a Bachelor's degree in Economic Statistics from Hunan University (China), which I completed in 2025. I'm interested in both Fintech (Cryptocurrency & LLM+Finance) and Empirical Asset Pricing (Behavioral Finance & Financial machine learning) in academia📋. My interests also extend to Quantitative Investment in industry📈. These days, I am engaged in the field of Large Language Model applications🤖.
 
-However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
+
+
+I co-lead [Concrete Future](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (600+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
 
 
 <div align="center">
