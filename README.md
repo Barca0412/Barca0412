@@ -69,7 +69,7 @@ About Quantitative Finance track of mine:
 
 🌏 Personal page: www.guohaoqi.cn
 
-📫 Email: qgh124430@hnu.edu.cn
+📫 Email: e1583267@u.nus.edu, qgh124430@hnu.edu.cn
 
 📞 Wechat: qgh985695077
 
