@@ -56,8 +56,10 @@ About Quantitative Finance track of mine:
   <img src="https://api.star-history.com/svg?repos=Barca0412/Introduction-to-Quantitative-Finance&type=Date" alt="Star History Chart" width="50%">
 </p>
 
-😊湖南大学的[cover letter模板](https://github.com/Barca0412/Cover-letter-of-Hunan-University)在下方pinned区域, 请自取！（后续会写一份论文的Template，敬请期待）
 <!--
+
+😊湖南大学的[cover letter模板](https://github.com/Barca0412/Cover-letter-of-Hunan-University)在下方pinned区域, 请自取！（后续会写一份论文的Template，敬请期待）
+
 <span > 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
