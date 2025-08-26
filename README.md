@@ -13,7 +13,7 @@ I am Guohao Qi (齐国皓, www.guohaoqi.cn), a first-year Master student in the 
 I am currently a research assistant at the [NExT++ research center](https://www.nextcenter.org/) at NUS, mentored by Dr. Fengbin Zhu, under the supervision of Prof. Tat-Seng Chua. My interests span academic research in AI + Finance and Empirical Asset Pricing (Behavioral Finance & Financial Machine Learning), as well as industrial applications in Quantitative Investment (stock & cryptocurrency). These days, I am engaged in the field of Large Language Model applications🤖.
 
 
-I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (700+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
+I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (800+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
 
 
 <div align="center">
