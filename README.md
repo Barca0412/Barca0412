@@ -10,7 +10,7 @@
 I am Guohao Qi (齐国皓, www.guohaoqi.cn), a first-year Master student in the School of Computing at the National University of Singapore (NUS) from 2025 to 2027. I earned my Bachelor's degree (2025) in Economic Statistics from Hunan University (China), under the supervision of [Prof. Guohao Tang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2273998). 
 
 
-I am currently a research assistant at the [NExT++ research center](https://www.nextcenter.org/) at NUS, mentored by [Dr. Fengbin Zhu](https://fengbinzhu.github.io/), under the supervision of Prof. [Tat-Seng Chua](https://www.chuatatseng.com/). My interests span academic research in AI + Finance and Empirical Asset Pricing (Behavioral Finance & Financial Machine Learning), as well as industrial applications in Quantitative Investment (stock & cryptocurrency). These days, I am engaged in the field of Large Language Model applications🤖. We([HNU HFT](https://github.com/HFT-Hunan-Uniiversity)) are creating a Doc called 'xxxxx for beginers', 
+I am currently a research assistant at the [NExT++ research center](https://www.nextcenter.org/) at NUS, mentored by [Dr. Fengbin Zhu](https://fengbinzhu.github.io/), under the supervision of Prof. [Tat-Seng Chua](https://www.chuatatseng.com/). My interests span academic research in AI + Finance and Empirical Asset Pricing (Behavioral Finance & Financial Machine Learning), as well as industrial applications in Quantitative Investment (stock & cryptocurrency). These days, I am engaged in the field of Large Language Model applications🤖. 
 
 
 
