@@ -10,7 +10,19 @@
 I am Guohao Qi (齐国皓, www.guohaoqi.cn), a first-year Master student in the School of Computing at the National University of Singapore (NUS) from 2025 to 2027. I earned my Bachelor's degree (2025) in Economic Statistics from Hunan University (China), under the supervision of [Prof. Guohao Tang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2273998). 
 
 
-I am currently a research assistant at the [NExT++ research center](https://www.nextcenter.org/) at NUS, mentored by [Dr. Fengbin Zhu](https://fengbinzhu.github.io/), under the supervision of Prof. [Tat-Seng Chua](https://www.chuatatseng.com/). My interests span academic research in AI + Finance and Empirical Asset Pricing (Behavioral Finance & Financial Machine Learning), as well as industrial applications in Quantitative Investment (stock & cryptocurrency). These days, I am engaged in the field of Large Language Model applications🤖.
+I am currently a research assistant at the [NExT++ research center](https://www.nextcenter.org/) at NUS, mentored by [Dr. Fengbin Zhu](https://fengbinzhu.github.io/), under the supervision of Prof. [Tat-Seng Chua](https://www.chuatatseng.com/). My interests span academic research in AI + Finance and Empirical Asset Pricing (Behavioral Finance & Financial Machine Learning), as well as industrial applications in Quantitative Investment (stock & cryptocurrency). These days, I am engaged in the field of Large Language Model applications🤖. We([HNU HFT](https://github.com/HFT-Hunan-Uniiversity)) are creating a Doc called 'xxxxx for beginers', 
+
+
+
+
+
+<!-- <div>
+> [!NOTE]
+> 🚧 Some members from <a href="https://github.com/HFT-Hunan-Uniiversity">HFT(Hunan University Fintech Association)</a> are creating a Doc called <b>'xxxx Guide for Beginners'</b>. 
+> This document is a revolutionary guide for the next generation of builders. Follow us for early access to the new knowledge base! 💡
+</div> -->
+
+
 
 
 I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (800+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
@@ -46,9 +58,17 @@ About Quantitative Finance track of mine:
  ## 😄 By the way, I'm leading a team to design a Quantitative Strategy for investing in the Chinese stock market based on multi-factor model(temporarily). If you have interest in this project, please contact me ! 
 -->
 
-<!--
-😄我正在进行 使用算法挖掘选股因子 的工作，欢迎与我讨论 ！
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/TUTORIAL_STATUS-COMING_SOON-F4D03F?style=for-the-badge&logo=github&logoColor=white" alt="Tutorial Status: Coming Soon">
+</p>
+  <p>
+    Some members from <a href="https://github.com/HFT-Hunan-Uniiversity">HFT(Hunan University Fintech Association)</a> are creating a Doc called <b>'xxxx Guide for Beginners'</b>. This document is a revolutionary guide for the next generation of builders. Follow us for early access to the new knowledge base! 💡
+    Stay tuned !
+  </p>
+
+
+
+
 😄 I am writing a [Intro to Quantitative Finance ](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap these days. Anyone interested is welcome to build it together with me!!
 <!--
 <p align="center">
