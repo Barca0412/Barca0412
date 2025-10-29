@@ -1,12 +1,17 @@
 ### Hi there 👋 
+<!-- <div>
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24355%26project%3D%26in=0)](https://codetime.dev)
+</div> -->
 
-
+<p align="center">
+ 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Barca0412.Barca0412)
-![decription](https://img.shields.io/badge/Language-Python-green)
-![decription](https://img.shields.io/badge/Language-R-blue)
-![decription](https://img.shields.io/badge/Language-C++-red)
-![decription](https://img.shields.io/badge/Language-SAS-white)
+ ![decription](https://img.shields.io/badge/Language-Python-green)
+ ![decription](https://img.shields.io/badge/Language-R-blue)
+ ![decription](https://img.shields.io/badge/Language-C++-red)
+ ![decription](https://img.shields.io/badge/Language-SAS-white)
+
+</p>
 
 
 I am Guohao Qi (齐国皓, www.guohaoqi.cn), a first-year Master student in the School of Computing at the National University of Singapore (NUS) from 2025 to 2027. I earned my Bachelor's degree (2025) in Economic Statistics from Hunan University (China), under the supervision of [Prof. Guohao Tang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2273998). 
