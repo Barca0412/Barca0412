@@ -35,7 +35,7 @@ I am currently a research assistant at the [NExT++ research center](https://www.
 
 
 
-I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (800+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
+I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (900+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
 
 
 <div align="center">
