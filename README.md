@@ -106,7 +106,7 @@ About Quantitative Finance track of mine:
       <img src="https://api.star-history.com/svg?repos=Barca0412/Introduction-to-Quantitative-Finance&type=Date" alt="Star History Chart" width="100%">
     </td>
     <td width="50%">
-<a href='https://mapmyvisitors.com/web/1c0s2'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=430&t=m&d=ycMYoeJgBzTn3HFuMmtd8ASzmrrcq2Ekz9_j-IBWRyE&co=ffffff&ct=808080'/></a>
+<a href='https://mapmyvisitors.com/web/1c0s2'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=480&t=m&d=ycMYoeJgBzTn3HFuMmtd8ASzmrrcq2Ekz9_j-IBWRyE&co=ffffff&ct=808080'/></a>
     </td>
   </tr>
 </table>
