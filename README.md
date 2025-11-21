@@ -85,9 +85,32 @@ About Quantitative Finance track of mine:
   <img src="https://github.com/user-attachments/assets/6e94cd3b-d25e-4888-b404-e42c54af56a8" alt="star-history-2024731" width="50%">
 </p>
 -->
+
+<!--
 <p align="center">
   <img src="https://api.star-history.com/svg?repos=Barca0412/Introduction-to-Quantitative-Finance&type=Date" alt="Star History Chart" width="50%">
 </p>
+
+
+<p align="center">
+   <a href='https://mapmyvisitors.com/web/1c0s2'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=a&t=tt&d=ycMYoeJgBzTn3HFuMmtd8ASzmrrcq2Ekz9_j-IBWRyE&co=ffffff&ct=808080'/></a>
+</p>
+-->
+
+
+
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://api.star-history.com/svg?repos=Barca0412/Introduction-to-Quantitative-Finance&type=Date" alt="Star History Chart" width="100%">
+    </td>
+    <td width="50%">
+<a href='https://mapmyvisitors.com/web/1c0s2'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=430&t=m&d=ycMYoeJgBzTn3HFuMmtd8ASzmrrcq2Ekz9_j-IBWRyE&co=ffffff&ct=808080'/></a>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 
@@ -100,6 +123,9 @@ About Quantitative Finance track of mine:
 </span>
 -->
 
+
+
+
 -------
 
 🌏 Personal page: www.guohaoqi.cn
@@ -109,6 +135,8 @@ About Quantitative Finance track of mine:
 📞 Wechat: qgh985695077
 
 <a href='https://clustrmaps.com/site/1bza4'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=450&t=n&d=cVC4cPmbBANO1z7BYtwwS9JV9ShIe_AyLkLOnRp0IGM'/></a>
+
+
 
 
 <!--
