@@ -69,11 +69,11 @@ About Quantitative Finance track of mine:
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TUTORIAL_STATUS-COMING_SOON-F4D03F?style=for-the-badge&logo=github&logoColor=white" alt="Tutorial Status: Coming Soon">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_SOURCE-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="Status: Open Source">
 </p>
   <p>
-    Some members from <a href="https://github.com/HFT-Hunan-Uniiversity">HFT(Hunan University Fintech Association)</a> are creating a Doc called <b>'xxxx Guide for Beginners'</b>. This document is a revolutionary guide for the next generation of builders. Follow us for early access to the new knowledge base! 💡
-    Stay tuned !
+Some members from <a href="https://github.com/HFT-Hunan-Uniiversity">HFT (Hunan University Fintech Association)</a> have launched <a href="https://github.com/datawhalechina/vibe-vibe"><b>Vibe Vibe</b></a> - World's first systematic <b>Vibe Coding tutorial</b>! 
+  From zero to full-stack, learn to build products with AI assistance. ⭐ Star us and join the community!
   </p>
 
 
