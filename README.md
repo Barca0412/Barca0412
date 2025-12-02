@@ -38,12 +38,16 @@ I am currently a research assistant at the [NExT++ research center](https://www.
 I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (900+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
 
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barca0412&height=137" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barca0412&layout=compact&height=137" height="150px" />
-</div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Barca0412&height=137" height="180px" />
+  </div>
 
 <!--
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/](http://github-profile-summary-cards.vercel.app/api/cards/stats)?username=Barca0412&layout=compact&height=137" height="150px" />
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
@@ -56,6 +60,8 @@ I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a start
   src="https://github-readme-stats.vercel.app/api?username=Barca0412&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 </div> 
 -->
+
+
 About Quantitative Finance track of mine:
 - 🔭 I’m currently working on LLM + Finance, Daily-frequency strategy Research, Stock Factor Mining, Portfolio Optimization  ...
 - 💬 Ask me about Entrepreneurship(AI), LLM Applications, FoF Research, Algorithmic Factor Mining, Asset Pricing and Behavioral Finance, LLM + Finance ...
