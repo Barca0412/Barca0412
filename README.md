@@ -35,7 +35,7 @@ I am currently a research assistant at the [NExT++ research center](https://www.
 
 
 
-I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (900+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
+I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (1000+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
 
 
 
@@ -63,9 +63,9 @@ I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a start
 
 
 About Quantitative Finance track of mine:
-- 🔭 I’m currently working on LLM + Finance, Daily-frequency strategy Research, Stock Factor Mining, Portfolio Optimization  ...
+- 🔭 I’m currently working on LLM + Finance, Stock Factor Mining, Portfolio Optimization  ...
 - 💬 Ask me about Entrepreneurship(AI), LLM Applications, FoF Research, Algorithmic Factor Mining, Asset Pricing and Behavioral Finance, LLM + Finance ...
-- 🌱 I’m currently learning Deep Learning, Large Language Model, Reinforcement Learning, High-Frequency trading ...
+- 🌱 I’m currently learning Large Language Model, Reinforcement Learning, High-Frequency trading ...
 - 🤔 Besides, I'm working on something about prop trading to make a profit. 
 - ⚡ Interest: Football, Photography, Hiking, Cycling, Travel ...
 
@@ -78,10 +78,9 @@ About Quantitative Finance track of mine:
   <img src="https://img.shields.io/badge/STATUS-OPEN_SOURCE-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="Status: Open Source">
 </p>
   <p>
-Some members from <a href="https://github.com/HFT-Hunan-Uniiversity">HFT (Hunan University Fintech Association)</a> have launched <a href="https://github.com/datawhalechina/vibe-vibe"><b>Vibe Vibe</b></a> - World's first systematic <b>Vibe Coding tutorial</b>! 
-  From zero to full-stack, learn to build products with AI assistance. ⭐ Star us and join the community!
-  </p>
 
+Stay tuned for Vibe Vibe: The World's First Systematic Vibe Coding Tutorial!  <a href="https://github.com/HFT-Hunan-Uniiversity">We</a>'ve received **1.2k+** GitHub ⭐Stars Pre-launch! From zero to full-stack: Master product building with AI assistance. ⭐ Star us on GitHub and join the community!
+  </p>
 
 
 
