@@ -15,12 +15,12 @@
 
 
 I am Guohao Qi (齐国皓, www.guohaoqi.cn), a first-year Master student in the School of Computing at the National University of Singapore (NUS) from 2025 to 2027. I earned my Bachelor's degree (2025) in Economic Statistics from Hunan University (China), under the supervision of [Prof. Guohao Tang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2273998). 
-
+<!-- <div>
 <p align="center">
   <img src="https://wakatime.com/share/@018d4ecc-6fcb-465a-9257-36fddcdf5c9e/00072a3b-638d-48f8-b3c0-d64e04b3d965.svg" alt="WakaTime Stats" />
 </p>
-
-I am currently a research assistant at the [NExT++ research center](https://www.nextcenter.org/) at NUS, mentored by [Dr. Fengbin Zhu](https://fengbinzhu.github.io/), under the supervision of Prof. [Tat-Seng Chua](https://www.chuatatseng.com/). My interests span academic research in AI + Finance and Empirical Asset Pricing (Behavioral Finance & Financial Machine Learning), as well as industrial applications in Quantitative Investment (stock & cryptocurrency). These days, I am engaged in the field of Large Language Model applications🤖. 
+</div> -->
+I am currently a research assistant at the [NExT++ research center](https://www.nextcenter.org/) at NUS, mentored by [Dr. Fengbin Zhu](https://fengbinzhu.github.io/), under the supervision of Prof. [Tat-Seng Chua](https://www.chuatatseng.com/). My interests span academic research in AI + Finance and Empirical Asset Pricing (Behavioral Finance & Financial Machine Learning), as well as industrial applications in Quantitative Investment (stock & cryptocurrency). These days, I am engaged in the field of Large Language Model applications. 
 
 
 
