@@ -38,13 +38,15 @@ I am currently a research assistant at the [NExT++ research center](https://www.
 I co-lead [Concrete Future AI](https://www.guohaoqi.cn/concrete-future), a startup providing AI transformation solutions for enterprises in cross-border e-commerce. I enjoy playing soccer⚽️, hiking🧗‍♂️ and traveling (some of the photos are in the 'Photos' part). Welcome to visit a comprehensive roadmap (1000+⭐) for beginners in quantitative research. However, I'm only a beginner in the field of Quantitative Finance, there's still a long way to go.
 
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Barca0412&show_icons=true&theme=light&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Barca's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Barca0412&theme=light&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Langs" />
+</div>
 
-
+<!--
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Barca0412&height=137" height="180px" />
   </div>
-
-<!--
 <img src="[https://github-readme-stats.vercel.app/api/top-langs/](http://github-profile-summary-cards.vercel.app/api/cards/stats)?username=Barca0412&layout=compact&height=137" height="150px" />
 
 
